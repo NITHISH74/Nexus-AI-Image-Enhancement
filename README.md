@@ -27,11 +27,11 @@
 │   └── Image_Enhancement_App/
 │       ├── flask_app/
 │       │   ├── app.py             # Core logic (ESRGAN Inference, Tiling Algorithm)
-│       │   ├── requirements.txt   # Pinned backend dependencies
 │       │   ├── static/            # Glassmorphism UI styling
 │       │   └── templates/         # Async Fetch DOM overlay
 ├── .gitignore
 └── README.md
+└── requirements.txt
 ```
 
 ---
